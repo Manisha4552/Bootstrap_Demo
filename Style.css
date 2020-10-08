@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Libre+Baskerville:wght@700&family=Permanent+Marker&display=swap');
+
+.navbar{
+    background-color: #03012b;
+   
+}
+
+.navbar-brand{
+    padding-left: 5rem;
+}
+
+.nav-item{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: 'Raleway', sans-serif;;
+}
+
+.nav-link:hover{
+    color: yellow !important;
+}
+
+.btn{
+    padding-left: 5rem;
+}
+.site-content{
+    background: url('./Assets/Background.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    padding-top: 20rem;
+    padding-bottom: 10rem;
+}
+
+.container{
+   height: 7rem;
+   width: 100%;
+    background-color: white;
+}
+
+.h6{
+    color: red;
+    padding-top: 2rem;
+}
+
+.btn{
+    margin-top: 2rem !important;
+    background-color: blue !important;
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+
+.h1{
+    padding-top: 5rem !important ;
+   font-family: 'Lobster', cursive !important;
+   color:#6c6b75;
+   
+}
+
+.i{
+    font-size: x-large;
+    color:#1a05d7;
+}
+.rowHeight{
+    height: 5rem;
+}
+
+.row{
+    padding-top: 8rem!important;
+    padding-bottom: 2rem!important;
+}
+.img-hover:hover img{
+   transform: scale(1.3);
+}
+.section1{
+    margin-top:30rem;
+    height: 20rem;
+    width: 100%;
+    background: url('./Assets/Background2.jpg');
+}
+
+.icon{
+   margin-top: 5rem;
+   margin-left: 7rem;
+}
+
+.icon-background{
+    color:white;
+}
+.icon-inner{
+    color: gray;
+}
+.h4{
+    padding-left: 8.5rem !important;
+    padding-top: .5rem !important;
+    color: white;
+    margin-bottom: -8px!important;
+    
+}
+.horizontal{
+    color: white!important;
+    padding-left: 8rem !important;
+    padding-top: .5rem !important;
+}
+.h3{
+    color: white;
+    padding-left: 5.5rem!important;
+    padding-top: .5rem !important;
+}
+
+img {
+    max-width: 100%;
+  }
+  .slide-wrapper {
+    text-align: center;
+  }
+  .blog .carousel-indicators {
+	left: 0;
+	top: auto;
+    bottom: -40px;
+
+}
+.carousel-control-prev {
+    margin-left: -200px;
+  }
+  
+  .carousel-control-next {
+    margin-right: -100px;
+  }
+.blog{
+    margin-top: -10rem;
+}
+.icon1{
+    color: #0f0c29;
+}
+.site-content3{
+    padding-top: 30rem;
+}
+
+.slide-wrapper {
+    text-align: center;
+  }
+  .blog1 .carousel-indicators {
+	left: 0;
+	top: auto;
+    bottom: -40px;
+
+}
+.iconhotel{
+    margin-top: -5rem;
+    margin-left: -2rem;
+   color:  #0f0c29;
+}
+.icon-innerhotel{
+    margin-top: -5rem;
+    margin-left: -2rem;
+    color: white;
+}
+.iconhotel1{
+    margin-top: -5rem;
+   padding-left: 70rem;
+   color:  #0f0c29;
+}
+.icon-innerhotel1{
+    margin-top: -5rem;
+   padding-left: 71rem;
+    color: white;
+}
+.blog3{
+    margin-top: -7rem;
+}
+.site-content4{
+    padding-top: 53rem;
+}
+.blog4{
+    margin-top: -6rem;
+}
+.card-img-top:hover{
+    transform: scale(1.3);
+}
+.card-img-top{
+    transition: all 1s ease;
+    
+}
+
+.button{
+    height: 2.5rem;
+    width: 6rem;
+    background-color:#8c54c0;
+    border-radius: .2rem;
+    
+}
+.button a{
+    font-size: 1.5rem;
+    color: white;
+   text-decoration: none;
+}
+.site-content5{
+    padding-top: 80rem;
+}
+.blog5{
+    margin-top: -6rem;
+}
+.site-content6{
+    padding-top: 110rem;
+}
+
+.card-title
+{
+    background-color: #490885;
+}
+.button1{
+    height: 2.5rem;
+    width: 10rem;
+    background-color:#7411cf!important;
+    border-radius: 50rem!important;
+   margin-left: 6rem;
+   margin-top:1rem
+}
+.button1 a{
+    color: white;
+    font-size: 1.3rem;
+    font-family: 'Piazzolla', serif;
+}
+.blog6 i{
+    color: gray;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+}
+.blog6 .h5{
+    font-family: 'Piazzolla', serif;
+}
+.button2{
+    margin-top: 3rem;
+    height: 2.5rem;
+    width: 8rem;
+    background-color:#2f0952!important;
+    border-radius: 50rem!important;
+   margin-left: 6rem;
+   margin-bottom: 3rem;
+}
+.button2 a{
+    color: white;
+    font-size: 1.3rem;
+    font-family: 'Piazzolla', serif;
+}
+footer{
+    margin-top: 170rem;
+}
+footer .h5{
+    font-family: 'Piazzolla', serif;
+}
+footer .h2{
+    font-family: 'Lobster', cursive !important;
+    margin-left: 5rem;
+    margin-bottom: -5rem;
+   
+}
+footer .icon-backgroundf{
+    color:gray;
+}
+footer .icon-innerf{
+    color: white;
+}
+
